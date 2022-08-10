@@ -1,3 +1,3 @@
 # NFT-Landing
 
-Лендинг NFT Crypto Goofs
+Landing NFT Crypto Goofs
